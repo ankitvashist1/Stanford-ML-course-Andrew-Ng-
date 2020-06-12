@@ -1,2 +1,2 @@
 # Stanford-ML-course-Andrew-Ng-
-Repository containing all the assignments of Andrew's Machine Learning course
+## Repository contain all the assignments of Andrew's Machine Learning course
